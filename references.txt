@@ -1,0 +1,12 @@
+//shared preference
+https://www.youtube.com/watch?v=wigv4PTeZk8&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=104
+https://www.youtube.com/watch?v=yI2cSfr90IY&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=105
+//data store preferance
+https://www.youtube.com/watch?v=McnVx7l5awk&t=423s&pp=ugMICgJhchABGAE%3D
+//splash screen api
+https://medium.com/geekculture/implementing-the-perfect-splash-screen-in-android-295de045a8dc // Learn from this article old way splash screen and defects in it
+https://proandroiddev.com/implementing-core-splashscreen-api-e62f0e690f74 // Learn from this article new way splash screen but new way didnt support image in background or complex splash screen
+//onBoarding Screen
+https://youtu.be/COZ3j8Dwlog
+//onBoarding screen ui 
+https://www.figma.com/file/VrxuHZ133xwG3zw1OGOasP/Onboarding-Login-Screens-Mobile-App-(Community)?node-id=0-1&t=K53GTKAbKsUFir5C-0

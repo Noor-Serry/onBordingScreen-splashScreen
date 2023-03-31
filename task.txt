@@ -1,0 +1,2 @@
+1-create splash screen by old way or new way as you like
+2-create onBoarding screen with viewPager2 you can create it with empty fragments just button to navigate
